@@ -1,0 +1,19 @@
+body {
+    background-color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    color: brown;
+}
+h2 {
+    color: brown;
+}
+
+p{
+    color: chocolate;
+}
+
+h1#principal {
+    text-align: center;
+    color: black;
+}

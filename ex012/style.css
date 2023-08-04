@@ -1,0 +1,15 @@
+.titulo {
+    background-color: aquamarine;
+    color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+
+}
+.segundo{
+    background-color: aqua;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    font-weight: lighter;
+}
